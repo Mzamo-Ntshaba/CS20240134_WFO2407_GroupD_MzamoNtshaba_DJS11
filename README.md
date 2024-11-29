@@ -1,7 +1,5 @@
 # The VoiceDeck Podcast Application  
 
-[Voice deck live](https://voicedeckpodcast.netlify.app/)
-
 A feature-rich podcast application that allows users to explore a a "deck" range of podcasts, manage their favorites, and track their listening history. Built with React, Tailwind CSS, and Framer Motion for a seamless and interactive user experience.  
 
 ## Features  
@@ -44,13 +42,16 @@ A reusable overlay component that:
 ### 5. LoadIcon  
 A customizable loading spinner for indicating loading states.  
 
+### 6 PopUp Component
+
+The `PopUp` component provides detailed information about a podcast, enabling users to interact with seasons, episodes, and playback controls.
+
+### 7 SearchBar Component
+
+The `SearchBar` component provides a dynamic search feature, allowing users to filter content in real-time. It integrates seamlessly with other components to ensure an intuitive user experience.
 
 
 ## Getting Started  
-
-### Prerequisites  
-- Node.js (v16 or higher)  
-- npm or yarn  
 
 ### Installation  
 
@@ -59,3 +60,13 @@ A customizable loading spinner for indicating loading states.
    git clone <https://github.com/Mzamo-Ntshaba/CS20240134_WFO2407_GroupD_MzamoNtshaba_DJS11>
    cd CS20240134_WFO2407_GroupD_MzamoNtshaba_DJS11
    ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+Alternatively you view the live server here [Voice deck live](https://voicedeckpodcast.netlify.app/)
