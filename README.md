@@ -69,4 +69,4 @@ The `SearchBar` component provides a dynamic search feature, allowing users to f
    ```bash
    npm run dev
    ```
-Alternatively you view the live server here [Voice deck live](https://voicedeckpodcast.netlify.app/)
+Alternatively you view the live server here [VoiceDeck Podcast App](https://voicedeckpodcast.netlify.app/)
