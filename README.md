@@ -42,11 +42,11 @@ A reusable overlay component that:
 ### 5. LoadIcon  
 A customizable loading spinner for indicating loading states.  
 
-### 6 PopUp Component
+### 6. PopUp Component
 
 The `PopUp` component provides detailed information about a podcast, enabling users to interact with seasons, episodes, and playback controls.
 
-### 7 SearchBar Component
+### 7. SearchBar Component
 
 The `SearchBar` component provides a dynamic search feature, allowing users to filter content in real-time. It integrates seamlessly with other components to ensure an intuitive user experience.
 
