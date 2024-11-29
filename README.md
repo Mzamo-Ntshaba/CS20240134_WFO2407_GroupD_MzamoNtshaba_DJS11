@@ -1,6 +1,6 @@
 # The VoiceDeck Podcast Application  
 
-[live_app](https://voicedeckpodcast.netlify.app/)
+[Voice deck live](https://voicedeckpodcast.netlify.app/)
 
 A feature-rich podcast application that allows users to explore a a "deck" range of podcasts, manage their favorites, and track their listening history. Built with React, Tailwind CSS, and Framer Motion for a seamless and interactive user experience.  
 
